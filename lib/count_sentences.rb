@@ -1,3 +1,5 @@
-def sentence?
-  if 
+class String
+  def sentence?
+    if 
+  end 
 end 
