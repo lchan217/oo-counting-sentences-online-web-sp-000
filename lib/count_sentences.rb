@@ -1,6 +1,6 @@
 class String
   def sentence?
-    if self.ends_with?(".")
+    if self.end_with?(".")
       true 
     else 
       false 
